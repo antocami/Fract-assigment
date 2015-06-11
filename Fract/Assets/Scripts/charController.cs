@@ -13,7 +13,8 @@ public class charController : MonoBehaviour
 	public AudioClip coinSound;
 	public AudioClip deathsound;
 	public AudioClip mayDay;
-	
+	public AudioClip speedUP;
+	public AudioClip speedDown;
 	public Texture2D coinIconTexture;
 
 
